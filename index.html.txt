@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AHMADSTORE - Top Up Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AHMADSTORE</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Beranda</a></li>
+                <li><a href="#about">Tentang Kami</a></li>
+                <li><a href="#services">Layanan</a></li>
+                <li><a href="#contact">Kontak</a></li>
+                <li><a href="#faq">FAQ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Selamat Datang di AHMADSTORE</h2>
+        <p>Kami menyediakan layanan top up game terbaik untuk semua jenis game.</p>
+    </section>
+
+    <section id="about">
+        <h2>Tentang Kami</h2>
+        <p>AHMADSTORE adalah penyedia layanan top up game yang terpercaya. Kami berkomitmen untuk memberikan pengalaman terbaik bagi para gamer.</p>
+    </section>
+
+    <section id="services">
+        <h2>Layanan Kami</h2>
+        <ul>
+            <li>Top Up Game Mobile Legends</li>
+            <li>Top Up Game Free Fire</li>
+            <li>Top Up Game PUBG Mobile</li>
+            <li>Top Up Game Genshin Impact</li>
+            <li>Top Up Game lainnya</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Kontak Kami</h2>
+        <p>Email: support@ahmadstore.com</p>
+        <p>Telepon: 0838-5492-2552</p>
+    </section>
+
+    <section id="faq">
+        <h2>FAQ</h2>
+        <h3>Apa itu top up game?</h3>
+        <p>Top up game adalah proses mengisi saldo atau kredit dalam game untuk membeli item atau fitur premium.</p>
+        <h3>Bagaimana cara melakukan top up?</h3>
+        <p>Kunjungi halaman layanan kami, pilih game yang ingin di top up, dan ikuti instruksi yang diberikan.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 AHMADSTORE. Semua hak dilindungi.</p>
+    </footer>
+</body>
+</html>
